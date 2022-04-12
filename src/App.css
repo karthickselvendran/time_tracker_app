@@ -1,0 +1,95 @@
+* {
+  /* background-color: rgb(233, 48, 48); */
+}
+
+.timerAppParent {
+  margin: 30px;
+}
+
+.txtAlnCtr {
+  text-align: center;
+}
+
+.crsptr {
+  cursor: pointer;
+}
+
+.mg10px {
+  margin: 10px;
+}
+
+.mg20px {
+  margin: 20px;
+}
+
+.authorTaskTodoComponent {
+  width: 80hw;
+  height: 80vh;
+  display: flex;
+}
+
+.authorTable {
+  width: 40hw;
+  min-width: 50%;
+  background-color: rgb(245, 245, 238);
+}
+
+.taskTable {
+  width: 40hw;
+  min-width: 50%;
+  background-color: rgb(245, 245, 238);
+}
+
+.tableHeader {
+  background-color: aqua;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tableTitle {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.iconStyle {
+  margin: 0px 10px;
+  cursor: pointer;
+}
+
+.eachRowDetails {
+  font-style: 18px;
+  background-color: rgb(234, 217, 217);
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  border-bottom: 1px solid #000;
+}
+
+.tableContents {
+  max-height: 75vh;
+  background-color: green;
+  overflow-y: scroll;
+}
+
+.titleMainHeading {
+
+  /* font-weight: bolder; */
+  padding: 10px;
+}
+
+.mainTitle {
+  font-style: 30px;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+.b1px {
+  border: 1px solid black;
+}
+
+.bb1px {
+  border-bottom: 1px solid black;
+}
